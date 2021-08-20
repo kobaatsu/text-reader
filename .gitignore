@@ -1,4 +1,7 @@
 # Created by .ignore support plugin (hsz.mobi)
+
+.env
+
 ### Node template
 # Logs
 /logs
@@ -88,3 +91,9 @@ sw.*
 
 # Vim swap files
 *.swp
+
+#auth
+api/auth
+
+# dist
+static/speech/*.mp3
